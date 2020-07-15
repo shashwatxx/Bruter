@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=bruter
+Encoding=UTF-8
+Exec=bash-wrapper "sudo bruter"
+Icon=avatar-default
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-password-attacks;
+X-Kali-Package=bruter
+Comment=
+Path=
